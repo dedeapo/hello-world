@@ -13,7 +13,7 @@ int gboot_main()
     
     led_off();
     
-
+//≤‚ ‘git
     	
    	while(1)
 	{
